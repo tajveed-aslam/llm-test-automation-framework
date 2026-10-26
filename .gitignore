@@ -1,0 +1,11 @@
+# secrets
+.env
+# local state
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+chroma_db/
+reports/
+# internal working notes (local only)
+PROGRESS.md
